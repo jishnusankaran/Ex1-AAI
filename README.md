@@ -1,7 +1,7 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name : JISHNUPRIYAN S </H3>
+<H3>Register No. 212223240061</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:11/04/20205</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
